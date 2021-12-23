@@ -42,10 +42,7 @@ linkedin.com/in/shihab-alnasiri-54085b1b5'> <img width = '32px' align= 'center' 
 <br>
 
 
------
-Credits: [Aditya Deshmukh](https://github.com/Aditya664)
 
-Last Edited on: 04/09/2021
 
 <!---
 Shihabaln/Shihabaln is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
