@@ -34,9 +34,9 @@ linkedin.com/in/shihab-alnasiri-54085b1b5'> <img width = '32px' align= 'center' 
   <br>
   
 
-| ![Shihab's github stats](https://github-readme-stats.vercel.app/api?username=shihabaln&show_icons=true&theme=tokyonight) | 
+| ![Shihab's github stats](https://github-readme-stats.vercel.app/api?username=Shihabaln&show_icons=true&theme=tokyonight) | 
 
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shihabaln&theme=tokyonight)
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shihabaln&theme=tokyonight)
 
 
 <br>
