@@ -27,7 +27,7 @@
 <a href = '
 linkedin.com/in/shihab-alnasiri-54085b1b5'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>
 
-<a href = 'https://twitter.com/shihabaln'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/>
+<a href = 'https://twitter.com/addhere'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/>
   
 <br>
 <br>
@@ -36,7 +36,7 @@ linkedin.com/in/shihab-alnasiri-54085b1b5'> <img width = '32px' align= 'center' 
 
 | ![Shihab's github stats](https://github-readme-stats.vercel.app/api?username=Shihabaln&show_icons=true&theme=tokyonight) | 
 
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=addhere&theme=tokyonight)
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shihabaln&theme=tokyonight)
 
 
 <br>
